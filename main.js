@@ -24,9 +24,9 @@ defaultS.addEventListener("click", ()=>{
     square.style.height = heightd;
     square.style.borderRadius = '0px';
     square.style.background = bgd;
-    square.style.width ='';
-    square.style.height = '';
-    square.style.borderRadius ='';
-    square.style.background = '';
+    widthInput.value ='';
+    heightInput.value = '';
+    BorderRadius.value ='';
+    background.value = '';
 
 })
